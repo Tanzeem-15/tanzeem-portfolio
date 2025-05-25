@@ -10,7 +10,7 @@ export const Bio = {
   ],
   description:"Experienced Mobile App Developer with 3 years of expertise in building and deploying high-performance, cross-platform applications using React Native, Cordova and Android. Delivered 6+ production-ready apps with 10K+ downloads, and improved app performance by up to 30%. Specialized in POS integrations and hardware-based features (NFC, Scanner, Bluetooth). Proven track record in leading development from architecture to release, mentoring developers, optimizing CI/CD workflows, and contributing to technical hiring in fast-paced, collaborative environments.",
   github: "https://github.com/Tanzeem-15",
-  resume: "https://drive.google.com/file/d/1keNArUo7IUQxyRjUYGwWerK4HzDx5goP/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1Q7tYRJHsm9fV_eGWHlNhWtyIduo3jhRZ/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/mohammed-tanzeem15",
   mailId: "mohammedtanzeem15@gmail.com",
   mailLink: "https://mail.google.com/mail/?view=cm&fs=1&to=mohammedtanzeem15@gmail.com&su=New opportunity&body=Hi Mohammed Tanzeem"
