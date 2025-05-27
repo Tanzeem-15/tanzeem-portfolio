@@ -101,10 +101,10 @@ const Projects = () => {
             marginBottom: "40px",
           }}
         >
-          I have worked on a wide range of projects.
+          This are the some of my projects i have worked on.
         </Desc>
 
-        <ToggleButtonGroup>
+        {/* <ToggleButtonGroup>
           <ToggleButton
             active={toggle === "all"}
             onClick={() => setToggle("all")}
@@ -119,16 +119,16 @@ const Projects = () => {
           >
             REACT NATIVE APP'S
           </ToggleButton>
-          {/* <Divider /> */}
+          <Divider />
 
-          {/* <ToggleButton
+          <ToggleButton
             active={toggle === "native android"}
             onClick={() => setToggle("native android")}
           >
             NATIVE ANDROID APP'S
           </ToggleButton>
-          <Divider /> */}
-        </ToggleButtonGroup>
+          <Divider />
+        </ToggleButtonGroup> */}
 
         <CardContainer>
           {toggle === "all" &&
