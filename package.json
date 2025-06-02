@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Tanzeem-15.github.io/tanzeem-portfolio",
+  "homepage": "https://tanzeem-15.github.io/tanzeem-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
