@@ -37,7 +37,7 @@ const Wrapper = styled.div`
 function App() {
   return (
     <ThemeProvider theme={darkTheme}>
-      <BrowserRouter>
+      <BrowserRouter basename="/tanzeem-portfolio">
         <Navbar />
         <Body>
           <StartCanvas />
