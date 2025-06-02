@@ -4817,4 +4817,4 @@ margin: 22px 0;
     );
   width: 100%;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 30% 98%, 0 100%);
-`;function KK(){return ee.jsx(wD,{theme:_D,children:ee.jsxs(qD,{children:[ee.jsx(OU,{}),ee.jsxs(JK,{children:[ee.jsx(k3,{}),ee.jsxs("div",{children:[ee.jsx(AJ,{}),ee.jsxs(wP,{children:[ee.jsx(BJ,{}),ee.jsx(oK,{})]}),ee.jsx(kK,{}),ee.jsx(wP,{children:ee.jsx(MK,{})}),ee.jsx(XK,{})]})]})]})})}AL.createRoot(document.getElementById("root")).render(ee.jsx(ce.StrictMode,{children:ee.jsx(KK,{})}));
+`;function KK(){return ee.jsx(wD,{theme:_D,children:ee.jsxs(qD,{basename:"/tanzeem-portfolio",children:[ee.jsx(OU,{}),ee.jsxs(JK,{children:[ee.jsx(k3,{}),ee.jsxs("div",{children:[ee.jsx(AJ,{}),ee.jsxs(wP,{children:[ee.jsx(BJ,{}),ee.jsx(oK,{})]}),ee.jsx(kK,{}),ee.jsx(wP,{children:ee.jsx(MK,{})}),ee.jsx(XK,{})]})]})]})})}AL.createRoot(document.getElementById("root")).render(ee.jsx(ce.StrictMode,{children:ee.jsx(KK,{})}));
