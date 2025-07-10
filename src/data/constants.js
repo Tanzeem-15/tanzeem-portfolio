@@ -1,5 +1,6 @@
 import project1 from "../images/sf.jpg"
 import project2 from "../images/sfa-airtel.png"
+import project3 from "../images/ooredoo-qatar.png"
 
 export const Bio = {
   name: "Mohammed Tanzeem",
@@ -8,7 +9,7 @@ export const Bio = {
     "React Native Developer",
     "Software Engineer",
   ],
-  description:"Experienced Mobile App Developer with 3 years of expertise in building and deploying high-performance, cross-platform applications using React Native, Cordova and Android. Delivered 6+ production-ready apps with 10K+ downloads, and improved app performance by up to 30%. Specialized in POS integrations and hardware-based features (NFC, Scanner, Bluetooth). Proven track record in leading development from architecture to release, mentoring developers, optimizing CI/CD workflows, and contributing to technical hiring in fast-paced, collaborative environments.",
+  description: "Experienced Mobile App Developer with 3 years of expertise in building and deploying high-performance, cross-platform applications using React Native, Cordova and Android. Delivered 6+ production-ready apps with 10K+ downloads, and improved app performance by up to 30%. Specialized in POS integrations and hardware-based features (NFC, Scanner, Bluetooth). Proven track record in leading development from architecture to release, mentoring developers, optimizing CI/CD workflows, and contributing to technical hiring in fast-paced, collaborative environments.",
   github: "https://github.com/Tanzeem-15",
   resume: "https://drive.google.com/file/d/1i99jE9IDvVFX5Q3r09JuWLWYQqTeIl05/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohammed-tanzeem15",
@@ -193,23 +194,31 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Viva Apps",
-    date: "Jan 2024 - Present",
-    description: `This application helps users efficiently manage day-to-day business operations.`,
-    image: project1,
-    tags: ["React Js", "React Native", "Redux Toolkit"],
-    category: "react native",
-    github: "https://play.google.com/store/apps/details?id=com.smartfren.snoc&hl=en_IN",
-  },
-  {
-    id: 1,
     title: "SFA - Airtel",
     date: "Jan 2022 - Present",
     description: "The SFA Airtel app streamlines sales and field operations, enabling customer management, sales tracking, order processing, and performance analytics for Airtel representatives.",
     image: project2,
-    tags: ["React Js", "React Native", "Redux"],
+    tags: ["React Native", "Context API","Android"],
     category: "react native",
     github: "https://apps.apple.com/in/app/sfa-airtel/id6477820855",
-    member: [],
   },
+  {
+    id: 1,
+    title: "Viva Apps",
+    date: "Jan 2024 - Present",
+    description: `This application helps users efficiently manage day-to-day business operations.`,
+    image: project1,
+    tags: ["React Native", "Context API"],
+    category: "react native",
+    github: "https://play.google.com/store/apps/details?id=com.smartfren.snoc&hl=en_IN",
+  },
+  {
+    id: 2,
+    title: "Ooredoo - Qatar",
+    date: "May 2024 - Present",
+    description: "Developed and maintained a mobile application for Ooredoo Qatar to streamline field sales, stock management, and journey cycle tracking. Integrated features like QR/NFC scanning, retailer verification, Bluetooth-based POS device connectivity, and offline data syncing to support telecom retail operations across Qatar.",
+    image: project3,
+    tags: ["React Native", "Context API", "Android", "iOS"],
+    category: "react native",
+  }
 ];
