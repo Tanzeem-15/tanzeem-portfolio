@@ -9,7 +9,7 @@ export const Bio = {
     "React Native Developer",
     "Software Engineer",
   ],
-  description: "Experienced Mobile App Developer with 3 years of expertise in building and deploying high-performance, cross-platform applications using React Native, Cordova and Android. Delivered 6+ production-ready apps with 10K+ downloads, and improved app performance by up to 30%. Specialized in POS integrations and hardware-based features (NFC, Scanner, Bluetooth). Proven track record in leading development from architecture to release, mentoring developers, optimizing CI/CD workflows, and contributing to technical hiring in fast-paced, collaborative environments.",
+  description: "Experienced Mobile App Developer with 3 years of expertise in building and deploying high-performance, cross-platform applications using React Native, Cordova and Android. Delivered 6+ production-ready apps with 50K+ downloads, and improved app performance by up to 30%. Specialized in POS integrations and hardware-based features (NFC, Scanner, Bluetooth). Proven track record in leading development from architecture to release, mentoring developers, optimizing CI/CD workflows, and contributing to technical hiring in fast-paced, collaborative environments.",
   github: "https://github.com/Tanzeem-15",
   resume: "https://drive.google.com/file/d/1i99jE9IDvVFX5Q3r09JuWLWYQqTeIl05/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohammed-tanzeem15",
